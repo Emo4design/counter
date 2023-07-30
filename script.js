@@ -10,5 +10,6 @@ function increase(){
     result.innerHTML=++count;
 }
 function reset(){
-    result.innerHTML=0;
+    count=0;
+    result.innerHTML=count;
 }
