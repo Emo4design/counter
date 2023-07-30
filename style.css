@@ -1,0 +1,12 @@
+.btn{
+    margin: 5px;
+    font-family: sans-serif;
+}
+
+#Num{
+    height: 50vh;
+    font-size: 100px;
+    font-weight: bolder;
+    padding-top:100px;
+
+}
